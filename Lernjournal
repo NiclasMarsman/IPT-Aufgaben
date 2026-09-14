@@ -1,1 +1,21 @@
+ICT-Courses
+
+Git: 
+Versionskontrollprogramm
+Läuft auf lokalem Computer
+Funktioniert auch ohne Internett
+
+GitHub:
+Eine Webseite/Plattform für Git-Projekte
+Läuft online in der Cloud
+Braucht Internett
+
+
+Exit Ticket:
+1.	Git-Befehl: git commit
+Wirkung: Speichert den aktuellen Stand bzw. die Änderungen als neuen Versionspunkt im Git-Verlauf. 
+2.	Begriff aus dem GitHub-Flow: Pull Request
+Bedeutung: Eine Anfrage, eigene Änderungen in einen anderen Branch, meistens main, zu übernehmen. 
+3.	Offene Frage:
+Was ist genau der Unterschied zwischen git add, git commit und git push? 
 
