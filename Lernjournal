@@ -1,5 +1,29 @@
 ICT-Courses
 
+LS1:
+
+Vorwissen:
+Was ist ein Programm?
+Anweisungen die ein Computer ausführt.
+
+Was ist ein Bug?
+Ein Fehler in einem Programm.
+
+Wie würdest du systematisch herausfinden, warum etwas nicht funktioniert?
+Zuerst die Fehlermeldung genau Lesen und dann Prüfen wo sich der Fehler befinden könnte.
+
+Exit-Ticket LS1
+1. Ich weis nun wie man auf Scratch ein Spiel programmiert.
+2. -
+3. Ich nehme mit wie ich einen Fehler erkennen und beheben kann.
+
+
+LS2:
+
+1. Unterschied Git und GitHub:
+Git verwaltet Änderungen hingegen GitHub Projekte online Speichert.
+
+Für mich ist der git commit sehr sicher und ich weis wie er funktioniert und ich ihn anwenden kann.
 Git: 
 Versionskontrollprogramm
 Läuft auf lokalem Computer
@@ -11,11 +35,20 @@ Läuft online in der Cloud
 Braucht Internett
 
 
-Exit Ticket:
+Exit-Ticket LS2
 1.	Git-Befehl: git commit
 Wirkung: Speichert den aktuellen Stand bzw. die Änderungen als neuen Versionspunkt im Git-Verlauf. 
 2.	Begriff aus dem GitHub-Flow: Pull Request
 Bedeutung: Eine Anfrage, eigene Änderungen in einen anderen Branch, meistens main, zu übernehmen. 
 3.	Offene Frage:
 Was ist genau der Unterschied zwischen git add, git commit und git push? 
+
+
+LS3
+-
+
+
+
+
+
 
