@@ -91,8 +91,22 @@ Verarbeitung: Gesamtpreis berechnen: Einzelpreis x Menge.
 Ausgaben: Den Gesamtpreis anzeigen.
 
 
+Den Auftrag fachlich schärfen
 
+Problemstatement:
+Beim Berechnen der Preise von Hand entstehen Fehler, besonders bei mehreren Artikeln gleichzeitig.
+Zielbild:
+Der Gesamtpreis wird richtig berechnet, alles wird verständlich angezeigt.
 
+Anforderung:
+1. Das Programm fragt nach Artikelname, Einzelpreis und Menge.
+2. Das Programm berechnet Einzelpreis x Menge.
+3. Das Programm zeigt eine Zusammenfassung an.
 
+Akzeptanz
+1. Artikel: Wasser, Einzelpreis: 2, Menge: 3. können nacheinander eingegebne werden.
+2. Bei 2 Franken und 3 Stück berechnet das Programm 6 Franken
+3. Die Ausgabe zeigt: 3x Wasser = 6 Franken
 
-
+Prüfen:
+Die Anforderungen passen zum Problem und zum Ziel.
