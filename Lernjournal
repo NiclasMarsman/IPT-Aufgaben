@@ -56,6 +56,17 @@ Zielzustand: Der Gesamtpreis soll korrekt berechnet werden.
 Lösungsidee: Ein einfaches Programm auf einem Smartphone oder Tablet das den Gesamtpreis berechnet
 
 
+Zuordung Problem, Ziel und Lösung
+
+Beim manuellen Berechnen entstehen Fehler.  = Problem / Wenn ein Fehler ensteht dann ist es ein Problem, das man beheben kann.
+Der Gesamtpreis eines Einkaufs soll zuverlässig bestimmt werden. = Ziel 
+Wir programmieren eine C#-Konsolenanwendung.  = Lösung
+Einzelpreis und Menge müssen berücksichtigt werden.  = Anforderung / Es ist eine Anforderung, da man erwartet das alles berücksichtigt wird.
+Der Einkauf soll schneller abgewickelt werden können.  = Ziel
+Das Programm verwendet Console.ReadLine().  = Lösung
+Der berechnete Gesamtpreis wird angezeigt. = Ziel / Es ist ein Ziel. Das Ziel ist es, das alles korrekt angezeigt wird.
+
+
 
 
 
