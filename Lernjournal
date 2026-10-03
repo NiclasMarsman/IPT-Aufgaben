@@ -110,3 +110,34 @@ Akzeptanz
 
 Prüfen:
 Die Anforderungen passen zum Problem und zum Ziel.
+
+
+Den Lösungsweg modellieren und durchspielen
+
+Ablauf:
+1. Artikelname eingeben.
+2. Einzelpreis eingeben
+3. Menge eingeben.
+4. Gesamtpreis berechnen: Einzelpreis x Menge.
+5. Artikelname, Menge und Gesamtpreis anzeigen.
+
+
+Artikelname eingeben: 1. Wasser, 2. Sandwich.
+Einzelpreis eingeben: 2 Franken, 5 Franken.
+Menge eingeben: 3 Stück, 2 Stück
+Gesamtpreis berechnen: 2x3, 5x2
+Zwischenergebnis: 6.- , 10.-
+Artikelname, Menge und Gesamtpreis anzeigen: 
+3x Wasser = 6 Franken, 2x Sandwich = 10 Franken
+
+
+
+
+
+
+
+
+
+
+
+
