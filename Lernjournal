@@ -47,6 +47,14 @@ Was ist genau der Unterschied zwischen git add, git commit und git push?
 LS3
 -
 
+LS4
+
+Praxisfall:
+Problem: In der Mensa wird der gesamt Preis von Hand berechnet. Dabei können immer wieder Fehler passieren.
+Betroffene Personen: Die Kunden und die Mitarbeiter.
+Zielzustand: Der Gesamtpreis soll korrekt berechnet werden.
+Lösungsidee: Ein einfaches Programm auf einem Smartphone oder Tablet das den Gesamtpreis berechnet
+
 
 
 
