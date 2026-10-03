@@ -79,7 +79,20 @@ Nach den Eingaben soll das Ergebniss angezeigt werden.
 Aussage:
 Die Berechnung muss funktionieren.
 Verhalten:
-Das Programm berechnet Preis x Menge
+Das Programm berechnet Preis x Menge.
 Prüfkriterium:
 Wenn man zum Beispiel 3 Brötchen für je 2 Franken eintippt soll am ende das Resultat 6 sein.
+
+
+Eingabe, Verarbeitung und Ausgabe verbinden
+
+Eingabe: Artikelname, Einzelpreis und Menge.
+Verarbeitung: Gesamtpreis berechnen: Einzelpreis x Menge.
+Ausgaben: Den Gesamtpreis anzeigen.
+
+
+
+
+
+
 
