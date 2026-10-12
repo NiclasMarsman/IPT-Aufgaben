@@ -1,3 +1,4 @@
+
 ICT-Courses
 
 LS1:
@@ -135,10 +136,34 @@ Fremdtest:
 -
 
 
+LS5
 
+Mensa Programm Codeieren in VS code
 
+1. Zuerst habe ich eienne text eingefügt.
+Console.WriteLine("Name des Produkts:");
 
+2. Danach habe ich eine Eingabe hinzugefügt und diese als name gespeichert. 
+string name = Console.ReadLine();
 
+3. Dies habe ich mit der Menge wiederholt.
+Console.WriteLine("Wie viel(e) " + name + " willst du kaufen?");
+string amountText = Console.ReadLine();
+
+4. Um den Text in eine Zahl umzuwandeln habe ich folgenden Befehl eingefügt.
+int amount = int.Parse(amountText);
+
+5. Dann habe ich das Vorgehen wiederholt mit dem Preis.
+Console.WriteLine("Wie teuer sind / ist ein(e) " + name + "?");
+string priceText = Console.ReadLine();  
+double price = double.Parse(priceText);
+
+6. Am Schluss rechnet es alles zusammen.
+double completePrice = amount * price ;
+completePrice = Math.Round(completePrice , 2);
+
+7. Und gibt das Endresultat unten in der Console aus.
+Console.WriteLine( amount + " " + name + "    
 
 
 
