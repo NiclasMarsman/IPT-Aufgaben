@@ -231,14 +231,30 @@ ___________________________________________________________________
 
 PAP- Zeichen:
 
-       Start
-         |
-Artikel, Einzelpreis, Menge einlesen
-         |
-    Menge < 1? ----Ja----- = Fehlermeldung
-         |Nein
-         |
-Zwischenbetrag = Einzelpreis x Menge
+      -------------------
+      |      Start      |
+      -------------------
+               |
+               |
+  /---------------------------------------/
+ / Artikel, Einzelpreis, Menge einlesen  /
+/---------------------------------------/
+               |
+               |
+         /------------\
+           Menge < 1?
+         \------------/
+          |          |
+      Ja  |          | Nein
+-----------------    ------------------------
+| Fehlermeldung |    |  Zwischenbetrag =    |
+-----------------    |  Einzelpreis x Menge |
+        |            ------------------------
+   --------                    |
+   | Ende |                    |
+   --------                  Menge
+
+
 
 .........................................................
 Programm mit Rabatt:
