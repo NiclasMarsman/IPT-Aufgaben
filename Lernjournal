@@ -27,6 +27,7 @@ Exit-Ticket LS1
 2. -
 3. Ich nehme mit wie ich einen Fehler erkennen und beheben kann.
 
+----------------------------------------------------------------------------------------------------------
 
 LS2:
 
@@ -53,10 +54,10 @@ Bedeutung: Eine Anfrage, eigene Änderungen in einen anderen Branch, meistens ma
 3.	Offene Frage:
 Was ist genau der Unterschied zwischen git add, git commit und git push? 
 
-
+-----------------------------------------------------------------------------------------------------------
 LS3
 -
-
+-----------------------------------------------------------------------------------------------------------
 LS4
 
 Praxisfall:
@@ -144,6 +145,7 @@ Artikelname, Menge und Gesamtpreis anzeigen:
 Fremdtest:
 -
 
+----------------------------------------------------------------------------------------------------------
 
 LS5
 
@@ -197,12 +199,14 @@ Console.WriteLine("Die Summe ist: " + result);
 }
 
 
+-----------------------------------------------------------------------------------------------------------
 
 LS6
 
 1. Es benötigt die verzweigungen if und else, 
 damit das Programm Prüfen kann, eb es ein Rabatt geben kann oder nicht.
 
+.........................................................
 Programm mit Rabatt:
 
 Console.WriteLine("Artikel:");
@@ -245,6 +249,11 @@ Console.WriteLine("Rabatt: " + (rabatt * 100) + "%");
 Console.WriteLine("Rabattbetrag: " + rabattbetrag.ToString("F2") + " CHF");
 Console.WriteLine("Endpreis: " + endpreis.ToString("F2") + " CHF");
 
+...........................................................
+
+
+
+--------------------------------------------------------------------------------------------------------
 
 
 
