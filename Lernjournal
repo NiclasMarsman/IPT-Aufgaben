@@ -203,8 +203,12 @@ Console.WriteLine("Die Summe ist: " + result);
 
 LS6
 
-1. Es benötigt die verzweigungen if und else, 
-damit das Programm Prüfen kann, eb es ein Rabatt geben kann oder nicht.
+LS5 Programm:
+Unser bisheriges Programm liest den Artikelnamen, den Einzelpreis und die Menge.
+Danach berechnet es den Gesamtpreis, indem es den Einzelpreis mit der Menge multipliziert.
+
+LS6-Programm:
+Im LS6 soll das Programm zusätzlich einen Mengnrabatt berechnen. Je nachdem, wie viele Artikel gekauft werden.
 
 .........................................................
 Programm mit Rabatt:
