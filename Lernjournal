@@ -210,6 +210,36 @@ Danach berechnet es den Gesamtpreis, indem es den Einzelpreis mit der Menge mult
 LS6-Programm:
 Im LS6 soll das Programm zusätzlich einen Mengnrabatt berechnen. Je nachdem, wie viele Artikel gekauft werden.
 
+
+Self-Check
+Der Einzelpreis beträgt 2.50 Fr.
+Menge    Rabatt     Zwischenbetrag     Rabattbetrag     Endsumme
+___________________________________________________________________
+0        Fehler  |       -          |        -       | Fehlermeldung
+___________________________________________________________________
+1          0%    |      2.50        |       0.00     |    2.50
+___________________________________________________________________
+2          0%    |      5.00        |       0.00     |    5.00
+___________________________________________________________________
+3          10%   |      7.50        |       0.75     |    6.75
+___________________________________________________________________
+4          10%   |      10.00       |       1.00     |    9.00
+___________________________________________________________________
+5          20%   |      12.50       |       2.50     |    10.00
+___________________________________________________________________
+6          20%   |      15.00       |       3.00     |    12.00
+
+PAP- Zeichen:
+
+       Start
+         |
+Artikel, Einzelpreis, Menge einlesen
+         |
+    Menge < 1? ----Ja----- = Fehlermeldung
+         |Nein
+         |
+Zwischenbetrag = Einzelpreis x Menge
+
 .........................................................
 Programm mit Rabatt:
 
