@@ -209,7 +209,7 @@ Danach berechnet es den Gesamtpreis, indem es den Einzelpreis mit der Menge mult
 
 LS6-Programm:
 Im LS6 soll das Programm zusätzlich einen Mengnrabatt berechnen. Je nachdem, wie viele Artikel gekauft werden.
-
+Wir Verwenden if, else if und else.
 
 Self-Check
 Der Einzelpreis beträgt 2.50 Fr.
@@ -233,7 +233,7 @@ PAP- Zeichen:
 
       -------------------
       |      Start      |
-      -------------------
+      ------------------- 
                |
                |
   /---------------------------------------/
@@ -301,7 +301,30 @@ Console.WriteLine("Endpreis: " + endpreis.ToString("F2") + " CHF");
 
 ...........................................................
 
+Grenzwerte Testen
+Der Einzelpreis beträgt 2.50 Fr.
+Menge    Rabatt          SOLL               Ist         Ergebniss
+___________________________________________________________________
+0        Fehler  |       -          |        -        |    OK
+___________________________________________________________________
+1          0%    |      2.50        |       2.50      |    OK
+___________________________________________________________________
+2          0%    |      5.00        |       5.00      |    OK
+___________________________________________________________________
+3          10%   |      6.75        |       6.75      |    OK
+___________________________________________________________________
+4          10%   |      9.00        |       9.00      |    OK
+___________________________________________________________________
+5          20%   |      10.00       |       10.00     |    OK
+___________________________________________________________________
+6          20%   |      12.00       |       12.00     |    OK
 
+
+
+
+
+Peer-Test
+Ein Mitschüler hat mein Programm mit den Mengen 0,3 und 5 getestet. Die Ergebnisse waren korrekt
 
 --------------------------------------------------------------------------------------------------------
 
